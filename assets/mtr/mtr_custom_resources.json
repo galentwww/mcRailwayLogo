@@ -1,0 +1,40 @@
+{
+	"custom_signs": {
+		"cautionGaps": {
+			"texture_id": "mtr:custom_directory/cautionGaps.png",
+			"flip_texture": false,
+			"custom_text": "当心月台间隙|Mind The Gaps",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "1167B1"
+		},
+		"umiL": {
+			"texture_id": "mtr:custom_directory/umiLogo.png",
+			"flip_texture": false,
+			"custom_text": "海见区轨道交通|UmiMi Railway Transit",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"umiR": {
+			"texture_id": "mtr:custom_directory/umiLogo.png",
+			"flip_texture": false,
+			"custom_text": "海见区轨道交通|UmiMi Railway Transit",
+			"flip_custom_text": true,
+			"small": true
+		},
+		"genshinL": {
+			"texture_id": "mtr:custom_directory/genshin.png",
+			"flip_texture": false,
+			"custom_text": "提瓦特轨道交通|Teyvat Railway Transit",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"genshinR": {
+			"texture_id": "mtr:custom_directory/genshin.png",
+			"flip_texture": false,
+			"custom_text": "提瓦特轨道交通|Teyvat Railway Transit",
+			"flip_custom_text": true,
+			"small": true
+		}
+	}
+}
