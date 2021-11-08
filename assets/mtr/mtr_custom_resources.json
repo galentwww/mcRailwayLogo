@@ -35,6 +35,20 @@
 			"custom_text": "提瓦特轨道交通|Teyvat Railway Transit",
 			"flip_custom_text": true,
 			"small": true
+		},
+		"miStoreL": {
+			"texture_id": "mtr:custom_directory/logoMi.png",
+			"flip_texture": false,
+			"custom_text": "小米之家|Xiaomi Store",
+			"flip_custom_text": false,
+			"small": true
+		},
+		"miStoreR": {
+			"texture_id": "mtr:custom_directory/logoMi.png",
+			"flip_texture": false,
+			"custom_text": "小米之家|Xiaomi Store",
+			"flip_custom_text": true,
+			"small": true
 		}
 	}
 }
